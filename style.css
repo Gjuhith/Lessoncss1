@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+#name{
+    font-weight: bolder;
+    color:blue;
+}
+.g{
+    color:rgb(17, 17, 165);
+}
+#p,h6{
+    font-family: 'Courier New', Courier, monospace;
+}
